@@ -1,6 +1,6 @@
 [package]
 edition = "2021"
-name = "winit-x11-bug"
+name = "glutin-x11-bug"
 version = "0.1.0"
 [dependencies]
 glutin = "*"
